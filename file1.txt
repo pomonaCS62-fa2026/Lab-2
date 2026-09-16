@@ -1,1 +1,5 @@
-Step 1: created by ELLIE_BURKHARDT on 9/16/26 at 14:01Step 4:  line added by Maddie on 9/16 at 14:09
+<<<<<<< HEAD
+Step 1: created by ELLIE_BURKHARDT on 9/16/26 at 14:01
+Step 3: Added by ELLIE on 9/16/26 at 14:06
+Step 4:  line added by Maddie on 9/16 at 14:09
+>>>>>>> 39a8e59f3873ff6a0200c8d5132191e7feb24853
